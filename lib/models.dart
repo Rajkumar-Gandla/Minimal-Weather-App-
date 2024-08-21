@@ -1,0 +1,1 @@
+const String WEATHER_API = "179f4fbd0968fc99872454906f95cddf";
